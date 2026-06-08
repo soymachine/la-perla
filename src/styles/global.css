@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --color-pearl: #faf7f2;
+  --color-pearl-dark: #f0ebe0;
+  --color-gold: #c9a96e;
+  --color-gold-dark: #b8943a;
+  --color-charcoal: #2d2d2d;
+  --color-charcoal-light: #5a5a5a;
+  --color-sea: #8db6ce;
+  --color-sea-dark: #6a9ab5;
+}
