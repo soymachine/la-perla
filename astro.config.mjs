@@ -3,8 +3,7 @@ import tailwindcss from "@tailwindcss/vite";
 import react from "@astrojs/react";
 
 export default defineConfig({
-  site: "https://soymachine.github.io",
-  base: "/la-perla",
+  site: "https://www.laperlacambrils.com",
   integrations: [react()],
   vite: {
     plugins: [tailwindcss()],
